@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Anish Gupta",
+    "occupation": "Full-stack web developer",
+    "description": "I eat, sleep, workout and code",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Anish! I'm a full stack developer looking for opportunities to learn, grow and become a better developer, I've worked on a significant number of personal projects and also might be working on one right now whilst you're reading this...",
+    "contactmessage": "Get in touch with me!",
+    "email": "anishgupta0066@gmail.com",
+    "phone": "+91 9617130889",
+    "address": {
+      "street": "Madhya Pradesh",
+      "city": "India",
+      "state": "India",
+      "zip": "462003"
+    },
+    "website": "localhost:3000",
+    "resumedownload": "https://drive.google.com/file/d/1LSMDrVRdg0ym8Qzyz4uV-d0H2R5n9l51/view?usp=sharing",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/starkpero007",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anish-gupta-748654188/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/starkpero",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University Institute Of Technology(RGPV)",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2018-2022",
+        "description": "7.86 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Self Employed",
+        "title": "Avid learner",
+        "years": "Present",
+        "description": "Cloning all the apps possible. On the way to learn web 3.0."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Servlet-JSP",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "twitch Clone (React JS)",
+        "category": "",
+        "image": "twitch.png",
+        "url": "https://github.com/starkpero/Twitch-clone"
+      },
+      {
+        "title": "Crwn Clothing (React JS)",
+        "category": "",
+        "image": "crwn.png",
+        "url": "https://crwn-liv-app.herokuapp.com/"
+      },
+      {
+        "title": "Vote4Change (JSP-Servlet(JAVA full-stack))",
+        "category": "",
+        "image": "vote4change.png",
+        "url": "https://github.com/starkpero/Vote4Change"
+      },
+      {
+        "title" : "NASA-Mission Control",
+        "category": "",
+        "image": "nasa.png",
+        "url": "https://github.com/starkpero/NASA-mission-control"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Anish is absolutely excellent, his depth of knowledge really meant a lot to us... I would definitely recommend",
+        "user": "Dr. Piyush Kumar Shukla"
+      },
+      {
+        "text": "Working with Anish has been AWESOME, he makes Working on technologies so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Aditya Shrivastava"
+      }
+    ]
+  }
+}
