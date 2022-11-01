@@ -15,7 +15,7 @@
       "zip": "462003"
     },
     "website": "localhost:3000",
-    "resumedownload": "https://drive.google.com/file/d/1LSMDrVRdg0ym8Qzyz4uV-d0H2R5n9l51/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1NCB44OZLbqA9gWYEHH6rS6DP-QznCSs3/view?usp=sharing",
     "social": [
       {
         "name": "twitter",
@@ -46,20 +46,36 @@
         "school": "University Institute Of Technology(RGPV)",
         "degree": "Bachelor's Degree, Computer Science",
         "graduated": "2018-2022",
-        "description": "7.86 CGPA"
+        "description": "8.05 CGPA"
       }
     ],
     "work": [
       {
-        "company": "Self Employed",
-        "title": "Avid learner",
-        "years": "Present",
-        "description": "Cloning all the apps possible. On the way to learn web 3.0."
+        "company": "Useriq",
+        "title": "Full stack developer intern",
+        "years": "Jan 2022 - March 2022",
+        "description": "Delivered production quality backend REST APIs using Go, and front‐end using TypeScript‐React to add new functionality to the existing product."
+      },
+      {
+        "company": "Peakmind",
+        "title": "Full stack developer",
+        "years": "May 2022 - July 2022",
+        "description": "Delivered production quality Assessment application using backend REST APIs with AWS serverless framework, and front‐end using React."
+      },
+      {
+        "company": "Infosys Ltd.",
+        "title": "Specialist Programmer",
+        "years": "Aug 2022 - (Current)",
+        "description": "Got trained in Node.js microservices and handling large scale applications using MERN stack."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJs",
         "level": "90%"
       },
       {
@@ -75,6 +91,14 @@
         "level": "80%"
       },
       {
+        "name": "TypeScript",
+        "level": "80%"
+      },
+      {
+        "name": "Go",
+        "level": "70%"
+      },
+      {
         "name": "Web Development",
         "level": "90%"
       }
@@ -82,6 +106,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Devcamper API (Node JS)",
+        "category": "",
+        "image": "devcamper.png",
+        "url": "https://github.com/starkpero/Devcamper-API"
+      },
       {
         "title": "twitch Clone (React JS)",
         "category": "",
@@ -101,7 +131,7 @@
         "url": "https://github.com/starkpero/Vote4Change"
       },
       {
-        "title" : "NASA-Mission Control",
+        "title": "NASA-Mission Control",
         "category": "",
         "image": "nasa.png",
         "url": "https://github.com/starkpero/NASA-mission-control"
